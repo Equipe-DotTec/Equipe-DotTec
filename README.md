@@ -6,15 +6,17 @@ Estamos utilizando metodologias ágeis, boas práticas de desenvolvimento e tecn
 
 ## Membros da Equipe
 
-| Nome                                      | Função            | GitHub                                                         | LinkedIn                                                       |
-| ----------------------------------------- | ----------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
-| **Cauã Mehiel Faria Cursino**             | Developer         | [GitHub](https://github.com/Cacow69)                            | [LinkedIn](https://www.linkedin.com/in/cauã-cursino-748485235/) |
-| **Gabriel Borges de Toledo**             | Developer         | [GitHub](https://github.com/Gabriel-Borges-06)                 | [LinkedIn](https://www.linkedin.com/in/gabriel-borges-de-toledo-b922a433b/) |
-| **Guilherme Silva Corrêa**               | Developer         | [GitHub](https://github.com/Vaporwaffle)                        | [LinkedIn](https://www.linkedin.com/in/guilherme-silva-corr%C3%AAa-a4a36b316/) |
-| **João Paulo Aparecido Santos**          | Scrum Master      | [GitHub](https://github.com/jopaul0)                            | [LinkedIn](https://www.linkedin.com/in/joaosantos02/)           |
-| **Kauan Victor Domingues do Nascimento** | Developer         | [GitHub](https://github.com/KauanDomingues)                     | [LinkedIn](https://www.linkedin.com/in/kauan-domingues-3b00a5276/) |
-| **Luiz Gabriel Lakner dos Santos**       | Developer         | [GitHub](https://github.com/Lakner13)                           | [LinkedIn](https://www.linkedin.com/in/gabriel-lakner-734528264/) |
-| **Ramon Batista Varjão**                 | Product Owner     | [GitHub](https://github.com/gitDeRamon)                         |                                                                |
+|      Nome      |    Função       |                            Github                             |                           Linkedin                           |
+| :--------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  Cauã Mehiel Faria Cursino  | Developer  | <a href="https://github.com/Cacow69"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/cauã-cursino-748485235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  Gabriel Borges de Toledo  | Developer | <a href="https://github.com/Gabriel-Borges-06"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/gabriel-borges-de-toledo-b922a433b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin$logoColor=white"> </a>
+|  Guilherme Silva Corrêa  | Developer | <a href="https://github.com/Vaporwaffle"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |<a href="https://www.linkedin.com/in/guilherme-silva-corr%C3%AAa-a4a36b316/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin$logoColor=white"> </a>
+|  João Paulo Aparecido Santos  | Scrum master  | <a href="https://github.com/jopaul0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/joaosantos02/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  Kauan Victor Domingues do Nascimento  | Developer | <a href="https://github.com/KauanDomingues"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | 
+|  Luiz Gabriel Lakner dos Santos  | Developer | <a href="https://github.com/Lakner13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/gabriel-lakner-734528264/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin$logoColor=white"> </a>
+|  Ramon Batista Varjão  | Product owner | <a href="https://github.com/gitDeRamon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
+
+
 
 ## Sobre o Projeto
 
